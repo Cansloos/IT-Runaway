@@ -1,4 +1,0 @@
-repository "IT-Runaway/IT-Runaway@9071890213830@cloud"
-  path "/"
-    br "/main"
-    co "/main"
