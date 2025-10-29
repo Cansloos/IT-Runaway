@@ -122,5 +122,8 @@ ExportedObj/
 !Assets/
 !Packages/
 !ProjectSettings/
-!UserSettings/EditorUserSettings.asset
 !ProjectSettings/ProjectVersion.txt
+!ProjectSettings/InputManager.asset
+!ProjectSettings/GraphicsSettings.asset
+!ProjectSettings/QualitySettings.asset
+!UserSettings/EditorUserSettings.asset
